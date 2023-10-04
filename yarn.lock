@@ -4856,10 +4856,9 @@ ember-data@~5.3.0:
     ember-inflector "^4.0.2"
     webpack "^5.88.2"
 
-ember-fetch@^8.1.2:
+ember-fetch@lflo5727/ember-fetch-import-rename#import-name-fix:
   version "8.1.2"
-  resolved "https://registry.yarnpkg.com/ember-fetch/-/ember-fetch-8.1.2.tgz#651839780519319309127054786bf35cd4b84543"
-  integrity sha512-TVx24/jrvDIuPL296DV0hBwp7BWLcSMf0I8464KGz01sPytAB+ZAePbc9ooBTJDkKZEGFgatJa4nj3yF1S9Bpw==
+  resolved "https://codeload.github.com/lflo5727/ember-fetch-import-rename/tar.gz/8a23b3914fd38282ae3a7ef84e44d0db4e25bbf4"
   dependencies:
     abortcontroller-polyfill "^1.7.3"
     broccoli-concat "^4.2.5"
