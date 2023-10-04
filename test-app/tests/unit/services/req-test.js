@@ -8,5 +8,7 @@ module('Req Service', function (hooks) {
     test('service is okay', function(assert) {
         const service = this.owner.lookup('service:req');
         assert.ok(service);
+        service.testRequest('/foo');
+        
     });
 });
